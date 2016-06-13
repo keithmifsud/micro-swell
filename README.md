@@ -6,8 +6,15 @@ Basically, the application layer for Php projects.
 
 [![Build Status](https://travis-ci.org/swellphp/micro-swell.svg?branch=master)](https://travis-ci.org/swellphp/micro-swell)
 
-##This package is initial stages of development
-Not much is useful to anyone just yet except for if you wish to see how such a framework can be put together.
+##This package is in initial stages of development
+Not much is useful to anyone just yet except if you wish to see how such a framework can be put together.
+
+
+## Installation
+
+```
+$ composer require swellphp/micro-swell
+```
 
 ##Purpose
 The purpose of micro-swell is to satisfy my personal requirements to have a really non-intrusive and a really not opinionated framework that I can use as I please in different projects with varying architecture and structure.
