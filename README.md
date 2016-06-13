@@ -43,7 +43,7 @@ To contribute, fork the
 [The main repository: https://github.com/swellphp/micro-swell](https://github.com/swellphp/micro-swell) and checkout a branch from the develop branch of your fork. Once ready, submit a
 pull request to the main repository's **develop branch**.
  
-The name of your branch should be named as the issue key of GitHub (git-xx) or Jira (future).
+The name of your branch should be named as the issue key of GitHub (GH-xx) or Jira (not yet implemented).
 
 Please report any issues you encounter on the issues page.
 
